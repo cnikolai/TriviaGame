@@ -139,7 +139,7 @@ $(document).ready(function() {
             }
             else {
               unansweredAnswers++;
-\            }
+            }
           }
           UpdateUserScore();
          }
