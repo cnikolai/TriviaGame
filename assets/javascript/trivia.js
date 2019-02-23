@@ -28,7 +28,7 @@ $(document).ready(function() {
                                     2: "May 14, 1804",
                                     3: "Mar 3, 1810", 
                                     4: "Sep 11, 1807"},
-        TriviaCorrectAnswer1: "May 14, 1804", 
+        TriviaCorrectAnswer1: "2", 
         TriviaAnswersToQuestion2: {1: "California",
                                     2: "Colorado",
                                     3: "Montana", 
